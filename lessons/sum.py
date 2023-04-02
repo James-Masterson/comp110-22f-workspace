@@ -9,3 +9,6 @@ def sum(xs: list[float]) -> float:
         total += xs[i]
         i += 1
     return total
+
+
+list: list[float] = [1.0, 4.0, 2.0]
